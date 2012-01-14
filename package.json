@@ -1,0 +1,9 @@
+{
+    "name": "Tweet*Sweet"
+  , "version": "1.0.0"
+  , "private": true
+  , "dependencies": {
+      "express": "2.5.0"
+    , "coffeekup": ">= 0.0.1"
+  }
+}
